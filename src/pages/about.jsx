@@ -10,7 +10,7 @@ import {
   GitHubIcon,
   LinkedInIcon,
 } from '@/components/SocialIcons'
-import portraitImage from '@/images/portrait.jpg'
+import portraitImage from '@/images/avatar.png'
 
 function SocialLink({ className, href, children, icon: Icon }) {
   return (
@@ -41,7 +41,7 @@ export default function About() {
   return (
     <>
       <Head>
-        <title>About - Spencer Sharp</title>
+        <title>About Jacopo</title>
         <meta
           name="description"
           content="I’m Jacopo. I live in Barcelona, where I design and build stuff. Sometimes I sing too."
