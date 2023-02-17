@@ -5,7 +5,7 @@ import { Card } from '@/components/Card'
 import { SimpleLayout } from '@/components/SimpleLayout'
 import logoKyso from '@/images/logos/kyso.svg'
 import logoKantox from '@/images/logos/Kantox-Logo-Footer.svg'
-import logoQonto from '@/images/logos/Qonto.png'
+import logoQonto from '@/images/logos/qonto.png'
 import logoDM from '@/images/logos/digital-maia.jpeg'
 
 const projects = [

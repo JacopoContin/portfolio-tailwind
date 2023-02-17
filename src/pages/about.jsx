@@ -61,7 +61,7 @@ export default function About() {
           </div>
           <div className="lg:order-first lg:row-span-2">
             <h1 className="text-4xl font-bold tracking-tight text-zinc-800 dark:text-zinc-100 sm:text-5xl">
-              I’m Jacopo. I live in Barcelona, where I design and build stuff. Sometimes I sing too.
+              I&apos;m Jacopo. I live in Barcelona, where I design and build stuff. Sometimes I sing too.
             </h1>
             <div className="mt-6 space-y-7 text-base text-zinc-600 dark:text-zinc-400">
               <p>
@@ -72,7 +72,7 @@ export default function About() {
                 When I was in University I did a semester abroad in Den Haag 🇳🇱 and you could say that I  never really came back. I discovered my love not only for traveling but for living abroad.   As soon as I finished university I got on a flight to Australia where I worked and traveled   for 2 years.
               </p>
               <p>
-                Then I went to my brother's wedding on a beach in Thailand 🏝and I liked the country so much  that I ended up living in Bangkok for 5 years 👀. I had the opportunity not only to enjoy  the sabai-sabai 🙏 Thai life, but also further my career working with big international  companies, understand and overcome the challenges that come with multicultural communication.
+                Then I went to my brother&apos;s wedding on a beach in Thailand 🏝and I liked the country so much  that I ended up living in Bangkok for 5 years 👀. I had the opportunity not only to enjoy  the sabai-sabai 🙏 Thai life, but also further my career working with big international  companies, understand and overcome the challenges that come with multicultural communication.
               </p>
               <p>
                 At the beginning of 2019 I decided to move back to Europe and chose to be based in Spain (I like it sunny ☀️ ). Currently based in Barcelona, but still traveling often and enjoying a location independent work and life.

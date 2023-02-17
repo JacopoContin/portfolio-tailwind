@@ -19,7 +19,7 @@ import image4 from '@/images/photos/jacopo 4.jpeg'
 import image5 from '@/images/photos/jacopo 5.jpeg'
 import logoKyso from '@/images/logos/kyso.svg'
 import logoKantox from '@/images/logos/Kantox-Logo-Footer.svg'
-import logoQonto from '@/images/logos/Qonto.png'
+import logoQonto from '@/images/logos/qonto.png'
 import logoDM from '@/images/logos/digital-maia.jpeg'
 import { generateRssFeed } from '@/lib/generateRssFeed'
 import { getAllArticles } from '@/lib/getAllArticles'
@@ -107,7 +107,7 @@ function SocialLink({ icon: Icon, ...props }) {
   )
 }
 
-/*
+
 function Newsletter() {
   return (
     <form
@@ -136,7 +136,6 @@ function Newsletter() {
     </form>
   )
 }
-*/
 
 function Resume() {
   let resume = [

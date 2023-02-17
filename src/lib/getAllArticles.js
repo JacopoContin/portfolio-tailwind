@@ -13,11 +13,12 @@ async function importArticle(articleFilename) {
 }
 
 export async function getAllArticles() {
-  let articleFilenames = await glob(['*.mdx', '*/index.mdx'], {
-    cwd: path.join(process.cwd(), 'src/pages/articles'),
-  })
+  //  let articleFilenames = await glob(['*.mdx', '*/index.mdx'], {
+  //    cwd: path.join(process.cwd(), 'src/pages/articles'),
+  //  })
 
-  let articles = await Promise.all(articleFilenames.map(importArticle))
+  //  let articles = await Promise.all(articleFilenames.map(importArticle))
 
-  return articles.sort((a, z) => new Date(z.date) - new Date(a.date))
+  //  return articles.sort((a, z) => new Date(z.date) - new Date(a.date))
+  return[]
 }
